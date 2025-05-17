@@ -22,7 +22,7 @@ const Showcase = () => {
         <span className="p-color">Bot is online!</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.com/api/oauth2/authorize?client_id=1333201865990602935&scope=bot+applications.commands&permissions=1374891928950">
               Invite now!
             </Link>
           </button>
