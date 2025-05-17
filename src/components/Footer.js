@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  Gleemo.lol
                 </Link>
                 <span
                   style={{
@@ -30,7 +30,7 @@ const Footer = () => {
                     alt="online-status"
                     className="onlineStatus"
                   />{" "}
-                  Bot is online!
+                  Bot working perfectly!
                 </span>
               </li>
             </ul>
@@ -64,7 +64,7 @@ const Footer = () => {
                 href="https://github.com/preetsuthar17"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Fanvis
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
@@ -72,16 +72,6 @@ const Footer = () => {
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
               /support
-            </Link>
-            <Link
-              target="_blank"
-              className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
-            >
-              /source-code
-            </Link>
-            <Link className="p-color no-decoration" href="#">
-              /privacy
             </Link>
           </div>
         </div>
